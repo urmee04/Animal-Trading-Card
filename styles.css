@@ -1,0 +1,60 @@
+/* add CSS here */
+
+.animal-trading-card {
+        background-color: #AB9AF1;
+        height: 780px;
+	width: 390px;
+        margin: auto;
+        padding-top: .1px;
+        padding-right: 3px;
+        border-radius: 1%;
+        box-shadow: 0 0 20px #999;
+}
+
+#container {
+        background-color: #F5F5F5;
+        height: 738px;
+        width: 320px;
+        margin: 14px auto;
+        padding: 6px 22px;
+        border: solid thin lightgrey;
+        border-radius: 1%;
+}
+
+h3 {
+        background-color: #FFFFCC;
+        text-align: center;
+        color: #3D9970;
+        border: 4px solid #AB9AF1;
+}       
+
+img {
+        width: 300px;
+        border-radius: 2%;
+        margin-left: 10px;  
+}
+
+#card {
+      background-color: #FFFFCC;
+      border: solid 1px #92a8d1;
+      border-radius: 1.5%;
+      color: #3D9970;
+      font-size: 15px;
+      margin: 9px;
+      padding: 6px;
+      text-align: justify;
+   }
+
+#interesting-fact {
+     font-style: italic;
+}
+
+#facts {
+        list-style-type: none;
+        padding: 0;
+}
+
+.list-of-facts {
+     font-weight: bold;
+}
+
